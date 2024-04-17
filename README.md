@@ -7,6 +7,8 @@ Language: VHDL
 
 Software used: Vivado
 
+Project by Matteo Lussana ([@matteo-lussana](https://github.com/matteo-lussana)) and Irene Lo Presti ([@irelop](https://github.com/irelop)).
+
 ## Aim of the project
 Implementation of a HW module that interfaces with RAM memory and that follows the indications given in the requirements.
 ## Requirements
